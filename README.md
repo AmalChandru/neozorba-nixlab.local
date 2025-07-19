@@ -10,6 +10,7 @@ A self-hosted, NixOS-powered homelab running a lightweight Kubernetes cluster vi
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcdba2a1-0ea5-4b36-bc23-dc9682dbd81b" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/140bab73-13a1-4752-b49c-dfe9105964dd" />
 
 ## Tech Stack
 
