@@ -1,12 +1,15 @@
 # neozorba-nixlab.local
 
-Recently revived my first laptop from its eternal sleep (thanks to a fresh SSD and an extra RAM stick). It now powers my NixOS-flavoured homelab.
+Recently revived my first laptop from its eternal sleep (thanks to a fresh SSD and an extra RAM stick). It now powers my nix-flavoured homelab.
 
 ## Overview
 
 A self-hosted, NixOS-powered homelab running a lightweight Kubernetes cluster via `k3s`, complete with monitoring and dashboards; all declaratively managed and exposed via local DNS.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f2be7a1-4dd3-45d8-9dd9-a63242e3d27d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcdba2a1-0ea5-4b36-bc23-dc9682dbd81b" />
+
 
 ## Tech Stack
 
