@@ -77,7 +77,7 @@ in {
   environment.systemPackages = with pkgs; [
     git curl wget neovim tmux htop
     zsh starship openssh docker
-    kubectl myHelm tree
+    kubectl myHelm tree neofetch
   ];
 
   # Shell
